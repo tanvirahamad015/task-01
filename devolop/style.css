@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Azeret Mono", monospace;
+}
+
 .bg-banner{
     max-width: 1440px;
     height: 652px;
     background-image: url("../image/Hero-bg.png");
-    border: 2px solid red;
     display: flex;
    justify-content: center;
    flex-direction: column;
@@ -12,5 +16,26 @@
 .banner-icon{
     width: 240px;
     height: 240px;
-    border: 2px solid rgb(54, 7, 163);
+}
+.banner-icon{
+    background-image: url("../image/Group.png");
+}
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    text-align: center;
+}
+p{
+    font-size: 16px;
+    text-align: center;
+}
+.btn{
+    background-color: black;
+    color: white;
+   width: 205px;
+   height: 66px;
+   border-radius: 10px;
+   font-size: 20px;
+   font-weight: 600;
+   margin-top: 30px;
 }
