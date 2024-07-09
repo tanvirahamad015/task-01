@@ -39,3 +39,71 @@ p{
    font-weight: 600;
    margin-top: 30px;
 }
+.why-web-devolop{
+    max-width: 1000px;
+    height: 1393px;
+    border: 2px solid red;
+    margin-top: 74px;
+    margin-left: 200px;
+    margin-right: 150px;
+    
+}
+.tittle{
+    width: 1000px;
+    height: 113px;
+    border: 2px solid rgb(4, 87, 211);
+    font-size: 32px;
+    margin: auto;
+}
+.first-content{
+    width: 1000px;
+    height: 336px;
+    border: 2px solid rgb(164, 230, 12);
+    margin-top: 60px;
+    align-items: first baseline;
+    display: flex;
+}
+.second-content{
+    width: 1000px;
+    height: 336px;
+    border: 2px solid rgb(230, 12, 48);
+    margin-top: 60px;
+}
+.third-content{
+    width: 1000px;
+    height: 336px;
+    border: 2px solid rgb(230, 99, 12);
+    margin-top: 60px;
+}
+.first-content-text{
+    width: 60%;
+    height: 336px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto;
+
+}
+.first-content-text h4{
+    font-size: 24px;
+    margin-top: 60px;
+}
+.first-content-text p{
+    font-size: 16px;
+    text-align: left;
+}
+.buttontwo{
+    width: 171px;
+    height: 47px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+    border: 2px solid #0D1321;
+}
+.first-content-img{
+    width: 40%;
+    height: 336px;
+    border: 2px solid rgb(121, 2, 168);
+    background-image: url("../image/Layer_1.png");
+    background-repeat: no-repeat;
+   margin-top: 25px;
+   margin-left: 100px;
+}
