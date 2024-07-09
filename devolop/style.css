@@ -24,10 +24,12 @@ h1{
     font-size: 48px;
     font-weight: bolder;
     text-align: center;
+   color: #0D1321;
 }
 p{
     font-size: 16px;
     text-align: center;
+    color: #0D1321;
 }
 .btn{
     background-color: black;
@@ -42,7 +44,7 @@ p{
 .why-web-devolop{
     max-width: 1000px;
     height: 1393px;
-    border: 2px solid red;
+    
     margin-top: 74px;
     margin-left: 200px;
     margin-right: 150px;
@@ -51,14 +53,14 @@ p{
 .tittle{
     width: 1000px;
     height: 113px;
-    border: 2px solid rgb(4, 87, 211);
+    color: #0D1321;
     font-size: 32px;
     margin: auto;
 }
 .first-content{
     width: 1000px;
     height: 336px;
-    border: 2px solid rgb(164, 230, 12);
+    
     margin-top: 60px;
     align-items: first baseline;
     display: flex;
@@ -66,29 +68,33 @@ p{
 .second-content{
     width: 1000px;
     height: 336px;
-    border: 2px solid rgb(230, 12, 48);
+   
     margin-top: 60px;
+    display: flex;
 }
 .third-content{
     width: 1000px;
     height: 336px;
-    border: 2px solid rgb(230, 99, 12);
+    
     margin-top: 60px;
+    display: flex;
 }
 .first-content-text{
     width: 60%;
     height: 336px;
-    border: 2px solid rgb(0, 0, 0);
+    color: #373A50;
     margin: auto;
 
 }
 .first-content-text h4{
     font-size: 24px;
     margin-top: 60px;
+    color: #373A50;
 }
 .first-content-text p{
     font-size: 16px;
     text-align: left;
+    color: #373A50;
 }
 .buttontwo{
     width: 171px;
@@ -101,9 +107,55 @@ p{
 .first-content-img{
     width: 40%;
     height: 336px;
-    border: 2px solid rgb(121, 2, 168);
+    
     background-image: url("../image/Layer_1.png");
     background-repeat: no-repeat;
-   margin-top: 25px;
+   margin-top: 50px;
    margin-left: 100px;
+}
+.second-content-img{
+    width: 40%;
+    height: 336px;
+    margin-top: 30px;
+    background-image: url("../image/Group\ 3.png");
+    background-repeat: no-repeat;
+}
+.second-content-text{
+    width: 60%;
+    height: 336px;
+    color: #373A50;
+   
+}
+.second-content-text h4{
+    font-size: 24px;
+    margin-top: 60px;
+    color: #373A50;
+}
+.second-content-text p{
+    font-size: 16px;
+    text-align: left;
+    color: #373A50;
+}
+.third-content-text{
+    width: 60%;
+    height: 336px;
+    color: #373A50;
+}
+.third-content-img{
+    width: 40%;
+    height: 336px;
+   margin-top: 30px;
+   margin-left: 100px;
+    background-image: url("../image/Group\ 4.png");
+    background-repeat: no-repeat;
+}
+.third-content-text h4{
+    font-size: 24px;
+    margin-top: 60px;
+    color: #373A50;
+}
+.third-content-text p{
+    font-size: 16px;
+    text-align: left;
+    color: #373A50;
 }
