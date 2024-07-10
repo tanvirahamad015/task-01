@@ -173,7 +173,128 @@ p{
 }
 .video{
    margin-left: 100px;
-   margin-top: 100px;
+   margin-top: 100px;  
+}
+.current-target{
+    width: 1440px;
+    height: 460px;
     
+   
+}
+
+  .card-img-container{
+    width: 1300px;
+    height: 650px;
+   margin-top: 140px;
     
+  }
+  .current-target{
+    
+    width: 1300px;
+    height: 213px;
+    color: #373A50;
+    
+  }
+  .arrange{
+   display: flex;
+  }
+.card-one{
+    width: 364px;
+    height: 299px;
+    color: #373A50;
+    margin-left: 50px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.card-two{
+    width: 364px;
+    height: 299px;
+    color: #373A50;
+    margin-left: 50px;
+    background-color: rgb(188, 252, 241);
+    border-radius: 10px;
+}
+.card-three{
+    width: 364px;
+    height: 299px;
+    color: #373A50;
+    margin-left: 50px;
+    background-color: rgb(227, 254, 173);
+    border-radius: 10px;
+}
+.card-one-position{
+    width: 284px;
+    height: 219px;
+    color: #373A50;
+    margin-left: 40px;
+    margin-top:40px ;
+    background-image: url("../image/html.png");
+    background-repeat: no-repeat;
+}
+.card-two-position{
+    width: 284px;
+    height: 219px;
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-top:40px ;
+    background-image: url("../image/js.png");
+    background-repeat: no-repeat;
+}
+.card-three-position{
+    width: 284px;
+    height: 219px;
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-top:40px ;
+    background-image: url("../image/css.png");
+    background-repeat: no-repeat;
+}
+.text{
+    margin-top: 70px;
+    font-size: 26px;
+    height: 139px;
+    width: 284px;
+}
+.label{
+    text-decoration: underline;
+}
+.cover-text-position{
+    width: 284px;
+    height: 139px;
+   margin-top: 150px;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+.footer{
+    display: flex;
+   
+}
+.footer-main{
+    width: 1140px;
+    height: 313px;
+    
+    margin-left: 50px;
+   background-image: url("../image/handshake.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.footer-second{
+    width: 1044px;
+    height: 185px;
+   color:#FFFFFF ; 
+   margin: 64px 48px;
+   text-align: center;
+   color: white;
+}
+.footer-second p{
+    color: #FFFFFF;
+}
+.footer-second h1{
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+.input{
+    margin-left: 40px;
+    margin-top: 50px;
+   
 }
